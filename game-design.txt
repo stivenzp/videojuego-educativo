@@ -10,3 +10,6 @@ Los estudiantes avanzarán mediante un sistema de niveles progresivos. Cada nive
 
 
 Los jugadores aprenderán operaciones básicas mediante ejercicios interactivos con números. Se reforzará la resolución de problemas a través de desafíos en forma de juegos de lógica, y las evaluaciones se realizarán mediante cuestionarios dinámicos dentro del juego, lo que permitirá a los profesores y estudiantes medir el progreso de manera efectiva.
+
+El juego se desarrollará usando Unity y tendrá soporte para computadoras y dispositivos móviles. Además, se implementarán características como guardado en la nube, compatibilidad multijugador local y animaciones optimizadas para garantizar una experiencia de juego fluida y atractiva.
+
