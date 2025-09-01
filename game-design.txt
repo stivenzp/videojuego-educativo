@@ -5,3 +5,5 @@ El protagonista de esta aventura es Luma, una niña curiosa y valiente de cabell
 
 
 El jugador podrá resolver acertijos interactivos, para avanzar deberá superar pruebas de cálculo y lógica, y los desafíos incluirán minijuegos de sumas, restas, multiplicaciones y problemas de razonamiento adaptados a su nivel.
+
+Los estudiantes avanzarán mediante un sistema de niveles progresivos. Cada nivel representa un concepto educativo de matemáticas, como operaciones básicas, geometría o fracciones, y los jugadores recibirán retroalimentación inmediata sobre su desempeño, lo que les permitirá identificar áreas de mejora y celebrar sus logros.
